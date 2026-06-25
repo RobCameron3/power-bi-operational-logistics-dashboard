@@ -10,6 +10,14 @@ This project deploys an end-to-end business intelligence solution for a multi-re
 
 Enhance business intelligence tracking by structuring relational data models and delivering automated analytics tools for operational decision-making.
 
+## ❓ Business Challenge
+
+Operational sales, shipment, and customer data were spread across multiple datasets, making it difficult for managers to monitor revenue performance, regional operations, shipment trends, and subscription demand from a single reporting platform.
+
+## 💡 Solution
+
+Built an interactive Power BI dashboard that consolidates revenue, shipment, customer, and regional data into a centralized executive reporting solution. The dashboard enables stakeholders to monitor key performance indicators, compare regional performance, analyze shipment and subscription trends, forecast revenue, and make data-driven business decisions through interactive visualizations and What-If scenario analysis.
+
 ## 🛠️ Key Skills Demonstrated
 
 * 🗄️ Relational database modeling and schema configuration
@@ -47,7 +55,7 @@ Configured calculated metrics to monitor fulfillment timelines, processing effic
 
 ## ✅ Outcome
 
-Transformed disconnected operational datasets into a centralized business intelligence dashboard, enabling managers to monitor KPIs, fulfillment efficiency, and regional performance from a single source of truth.
+Transformed disconnected operational datasets into a centralized business intelligence dashboard, enabling managers to monitor revenue, operational KPIs, regional performance, shipment trends, and subscription demand from a single source of truth.
 
 ## 💻 Tools Used
 
