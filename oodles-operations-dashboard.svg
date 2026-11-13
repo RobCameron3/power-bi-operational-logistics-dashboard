@@ -1,163 +1,174 @@
-# 📊 Power BI – Operational Performance & Logistics KPI Case Study
 
-## *(Business Intelligence Dashboard | Oodles of Noodles)*
-
-![Oodles of Noodles Animated Operations Dashboard](oodles-operations-dashboard.svg)
-
-*Animated portfolio visualization highlighting revenue performance, regional operations, shipment trends, and subscription analytics.*
-
-## 🌎 Overview
-
-This project develops an end-to-end business intelligence solution for **Oodles of Noodles**, a multi-regional meal-kit subscription and delivery business. The dashboard consolidates revenue, shipment, subscription, and regional performance data into a centralized analytics platform to support operational monitoring and strategic decision-making.
-
-Through interactive Power BI reporting, the solution enables users to evaluate revenue against targets, compare regional performance, analyze monthly shipment volumes, and model projected revenue using dynamic What-If parameters.
-
-## 🎯 Objective
-
-Develop a centralized business intelligence reporting solution that transforms operational and financial datasets into actionable performance indicators, enabling stakeholders to monitor revenue growth, evaluate regional performance, analyze shipment demand, and forecast business outcomes.
-
-## ❓ Business Challenge
-
-Operational sales, shipment, customer, and subscription data were distributed across multiple datasets, making it difficult to evaluate overall business performance through a unified reporting framework.
-
-Without centralized analytics, identifying revenue trends, comparing geographic divisions, understanding subscription demand, and evaluating potential growth scenarios required additional manual analysis.
-
-## 💡 Solution
-
-Built an interactive Power BI dashboard that integrates operational and financial data into a centralized executive reporting platform.
-
-The dashboard enables users to:
-
-- 💰 Monitor revenue performance against established financial targets
-- 🌎 Compare revenue contributions across geographic divisions
-- 📦 Analyze monthly meal-kit shipment volumes and demand patterns
-- 🍜 Evaluate subscription plan distributions and product configurations
-- 📈 Model projected revenue through adjustable What-If parameters
-- 🎛️ Explore performance metrics through interactive reporting and filtering
-
-## 📊 Dashboard Performance Highlights
-
-| KPI | Dashboard Result |
-|---|---|
-| Revenue | **$309.83K** |
-| Revenue Target | $274.58K |
-| Performance vs. Target | **+12.84%** |
-| Projected Revenue | **$2.76M** |
-| Forecast Scale | $0–$5.52M |
-| Leading Revenue Division | Middle Atlantic |
-| Highest Shipment Month | December |
-| Forecast Parameters | Number of Months & Annual Growth Rate |
-
-*Figures reflect the dashboard scenario displayed in the Power BI report and are not presented as live business results.*
-
-## 🛠️ Key Skills Demonstrated
-
-- 🗄️ Relational data modeling and schema configuration
-- 🔄 Data ingestion, transformation, and preparation using Power Query
-- 🧠 DAX measures and calculated columns for business performance analysis
-- 📊 KPI development, revenue tracking, and variance analysis
-- 📈 Revenue forecasting and What-If scenario modeling
-- 🌎 Geographic division and operational performance analysis
-- 📦 Shipment volume and subscription demand analytics
-- 🎨 Interactive dashboard design and executive reporting
-
-## ⚙️ Analytics Process
-
-### 📥 Step 1: Ingest Sales and Logistics Data
-
-Imported operational datasets containing transactional records, customer information, shipment activity, and regional business data into Power BI Desktop.
-
-### 🗂️ Step 2: Structure Relational Data Models
-
-Developed a relational reporting model to connect transactional, customer, and regional datasets, supporting consistent relationships between operational measures and reporting dimensions.
-
-### 🧹 Step 3: Clean and Transform Operational Data
-
-Used Power Query to prepare datasets for analysis by addressing missing values, standardizing fields, adjusting data types, and structuring records for reliable reporting.
-
-### 📊 Step 4: Develop Revenue and Operational KPIs
-
-Created DAX measures and calculated fields to evaluate revenue performance, compare actual results against financial targets, and monitor operational metrics.
-
-The dashboard includes revenue tracking, goal comparisons, geographic revenue contributions, and monthly shipment analysis.
-
-### 🎛️ Step 5: Engineer Interactive Executive Dashboards
-
-Designed interactive visualizations to consolidate key business metrics into a single reporting interface.
-
-Dashboard components include:
-
-- Revenue KPI cards and target comparisons
-- Regional revenue ranking charts
-- Monthly meal-kit shipment trends
-- Subscription plan distribution treemaps
-- Projected revenue gauge visualizations
-- Adjustable forecasting parameters
-
-### 📈 Step 6: Implement What-If Revenue Forecasting
-
-Configured dynamic What-If parameters for the number of months and annual growth rate, allowing users to evaluate how different assumptions influence projected revenue.
-
-The displayed scenario uses a 12-month period and a 5.0% annual growth-rate parameter, producing a projected revenue value of $2.76M.
-
-### 🚚 Step 7: Analyze Shipment and Subscription Performance
-
-Developed visualizations to evaluate monthly meal-kit shipment patterns and compare subscription configurations by meal-kit quantity and serving size.
-
-These analyses support a clearer understanding of demand distribution, seasonal volume changes, and regional business performance.
-
-## 🔎 Business Insights
-
-### 💰 Revenue Performance
-
-The displayed revenue of **$309.83K** exceeds the established $274.58K target by approximately $35.25K, representing a 12.84% positive variance.
-
-### 🌎 Regional Revenue Concentration
-
-The Middle Atlantic division represents the largest revenue contributor in the displayed regional comparison, followed by East North Central and Pacific.
-
-This highlights the importance of understanding geographic revenue concentration when evaluating business performance.
-
-### 📦 Shipment Demand Trends
-
-Monthly meal-kit shipment volumes generally increase throughout the displayed year, with December representing the highest-volume month.
-
-This provides a foundation for analyzing demand patterns, operational capacity, and shipment planning.
-
-### 🍜 Subscription Plan Distribution
-
-The subscription treemap compares different meal-kit and serving configurations, allowing users to examine how shipment activity is distributed across subscription offerings.
-
-### 📈 Revenue Scenario Modeling
-
-What-If parameters enable users to adjust forecasting assumptions and observe corresponding changes in projected revenue, supporting scenario evaluation rather than relying on a single static projection.
-
-## ✅ Outcome
-
-Developed a centralized business intelligence dashboard that transforms disconnected operational datasets into an interactive reporting environment for revenue analysis, regional performance monitoring, shipment tracking, subscription evaluation, and financial scenario modeling.
-
-The project demonstrates how Power BI can support business decision-making by combining data transformation, relational modeling, DAX calculations, and executive-level visual reporting into a unified analytics solution.
-
-## 💻 Tools Used
-
-- ⚡ **Power BI Desktop** – Interactive dashboards and business intelligence reporting
-- 🔄 **Power Query** – Data ingestion, cleaning, and transformation
-- 🧠 **DAX (Data Analysis Expressions)** – Calculated measures, KPIs, and forecasting logic
-- 🗄️ **Power BI Data Modeling** – Relational tables and reporting relationships
-- 📊 **What-If Parameters** – Dynamic revenue scenario analysis
-
-## 📂 Project Files
-
-- [📊 Power BI Dashboard (.pbix)](Oodles%20of%20Noodles%20-%20Final.pbix)
-- [🖼️ Original Dashboard Screenshot](dashboard-Screenshot_.png)
-- [🎬 Animated Dashboard Preview](oodles-operations-dashboard.svg)
-
-## 🖥️ Original Power BI Dashboard
-
-![Oodles of Noodles Power BI Dashboard](dashboard-Screenshot_.png)
-
-*Original Power BI dashboard showing revenue KPIs, projected revenue, regional comparisons, monthly shipment volumes, and subscription distributions.*
-
----
-
-**Project Focus:** Business Intelligence | Operational Analytics | Revenue Forecasting | Power BI | DAX | Power Query
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 720" width="1100" height="720" role="img" aria-label="Animated Oodles of Noodles operational analytics dashboard">
+<title>Oodles of Noodles — Operations Command Center</title>
+<defs>
+ <linearGradient id="bg" x2="0" y2="1">
+  <stop stop-color="#101827"/>
+  <stop offset="1" stop-color="#192c3a"/>
+ </linearGradient>
+ <linearGradient id="blue" x2="0" y2="1">
+  <stop stop-color="#4eb8ff"/>
+  <stop offset="1" stop-color="#1479e9"/>
+ </linearGradient>
+ <linearGradient id="green" x2="0" y2="1">
+  <stop stop-color="#4cf2a3"/>
+  <stop offset="1" stop-color="#16a76d"/>
+ </linearGradient>
+ <style>
+ text{font-family:Arial,Helvetica,sans-serif}
+ .panel{fill:#1c2a3b;stroke:#395064;stroke-width:1.3}
+ .muted{fill:#91a8bd;font-size:11px}
+ .label{fill:#dcebf7;font-size:12px}
+ .head{fill:#f1f8ff;font-size:15px;font-weight:bold}
+ .barX{transform-box:fill-box;transform-origin:left;animation:growX 10s ease-in-out infinite}
+ .barY{transform-box:fill-box;transform-origin:bottom;animation:growY 10s ease-in-out infinite}
+ .appear{animation:appear 10s ease-in-out infinite}
+ .pulse{animation:pulse 2.5s ease-in-out infinite}
+ .dash{stroke-dasharray:8 10;animation:dash 5s linear infinite}
+ @keyframes growX{
+  0%,4%{transform:scaleX(0)}
+  27%,96%,100%{transform:scaleX(1)}
+ }
+ @keyframes growY{
+  0%,4%{transform:scaleY(0)}
+  27%,96%,100%{transform:scaleY(1)}
+ }
+ @keyframes appear{
+  0%,12%{opacity:0}
+  27%,96%,100%{opacity:1}
+ }
+ @keyframes pulse{
+  0%,100%{opacity:.45}
+  50%{opacity:1}
+ }
+ @keyframes dash{to{stroke-dashoffset:-90}}
+ </style>
+</defs>
+
+<rect width="1100" height="720" rx="18" fill="url(#bg)"/>
+
+<!-- HEADER -->
+<rect x="22" y="20" width="1056" height="77" rx="12" class="panel"/>
+<text x="43" y="53" fill="#ffffff" font-size="27" font-weight="900" letter-spacing="1">🍜 OODLES OF NOODLES</text>
+<text x="44" y="77" fill="#9cbad0" font-size="12" letter-spacing="3">OPERATIONS COMMAND CENTER / POWER BI ANALYTICS</text>
+<rect x="858" y="38" width="198" height="39" rx="7" fill="#173d36" stroke="#34d399"/>
+<circle cx="879" cy="57" r="6" fill="#4affaa" class="pulse"/>
+<text x="894" y="62" fill="#b6ffe0" font-size="12" font-weight="bold">PERFORMANCE MONITOR</text>
+
+<!-- KPI CARDS -->
+<g>
+ <rect x="22" y="111" width="338" height="123" rx="11" class="panel"/>
+ <text x="42" y="139" class="muted">REVENUE / START OF MONTH</text>
+ <text x="42" y="190" fill="#4ce7a0" font-size="39" font-weight="bold">$309.83K</text>
+ <text x="43" y="214" fill="#a3d9bd" font-size="12">Goal: $274.58K</text>
+ <text x="274" y="215" fill="#4ce7a0" font-size="13" font-weight="bold">+12.84%</text>
+
+ <rect x="374" y="111" width="338" height="123" rx="11" class="panel"/>
+ <text x="394" y="139" class="muted">PROJECTED REVENUE</text>
+ <text x="394" y="190" fill="#67baff" font-size="39" font-weight="bold">$2.76M</text>
+ <text x="395" y="214" fill="#9cbad0" font-size="12">Scenario forecast / 12 months</text>
+
+ <rect x="726" y="111" width="352" height="123" rx="11" class="panel"/>
+ <text x="746" y="139" class="muted">TOP REVENUE DIVISION</text>
+ <text x="746" y="178" fill="#f5d38b" font-size="25" font-weight="bold">Middle Atlantic</text>
+ <text x="747" y="209" fill="#b6c8d9" font-size="15">Approximately $1.03M</text>
+</g>
+
+<!-- REVENUE BY DIVISION -->
+<rect x="22" y="249" width="518" height="252" rx="12" class="panel"/>
+<text x="42" y="278" class="head">REVENUE BY DIVISION</text>
+<text x="42" y="297" class="muted">Regional performance / approximate chart values</text>
+
+<g fill="#c6d7e5" font-size="11">
+ <text x="42" y="332">Middle Atlantic</text>
+ <text x="42" y="358">East North Central</text>
+ <text x="42" y="384">Pacific</text>
+ <text x="42" y="410">Mountain</text>
+ <text x="42" y="436">West South Central</text>
+ <text x="42" y="462">South Atlantic</text>
+ <text x="42" y="488">East South Central</text>
+</g>
+
+<g fill="url(#blue)">
+ <rect x="172" y="318" width="292" height="17" rx="3" class="barX"/>
+ <rect x="172" y="344" width="147" height="17" rx="3" class="barX" style="animation-delay:.12s"/>
+ <rect x="172" y="370" width="118" height="17" rx="3" class="barX" style="animation-delay:.24s"/>
+ <rect x="172" y="396" width="73" height="17" rx="3" class="barX" style="animation-delay:.36s"/>
+ <rect x="172" y="422" width="73" height="17" rx="3" class="barX" style="animation-delay:.48s"/>
+ <rect x="172" y="448" width="26" height="17" rx="3" class="barX" style="animation-delay:.60s"/>
+ <rect x="172" y="474" width="10" height="17" rx="3" class="barX" style="animation-delay:.72s"/>
+</g>
+
+<!-- MONTHLY SHIPMENTS -->
+<rect x="554" y="249" width="524" height="252" rx="12" class="panel"/>
+<text x="574" y="278" class="head">MEAL KITS BY MONTH</text>
+<text x="574" y="297" class="muted">Shipment volume / approximate values from chart</text>
+
+<g stroke="#40566b" stroke-dasharray="4 5">
+ <path d="M588 350H1054M588 400H1054M588 450H1054"/>
+</g>
+<g fill="#8fa8bc" font-size="10">
+ <text x="566" y="354">20K</text>
+ <text x="566" y="404">10K</text>
+ <text x="575" y="454">0</text>
+</g>
+
+<!-- Monthly columns, all animate upward and hold -->
+<g fill="url(#blue)">
+ <rect x="599" y="421" width="24" height="29" class="barY"/>
+ <rect x="636" y="419" width="24" height="31" class="barY" style="animation-delay:.08s"/>
+ <rect x="673" y="415" width="24" height="35" class="barY" style="animation-delay:.16s"/>
+ <rect x="710" y="404" width="24" height="46" class="barY" style="animation-delay:.24s"/>
+ <rect x="747" y="404" width="24" height="46" class="barY" style="animation-delay:.32s"/>
+ <rect x="784" y="401" width="24" height="49" class="barY" style="animation-delay:.40s"/>
+ <rect x="821" y="384" width="24" height="66" class="barY" style="animation-delay:.48s"/>
+ <rect x="858" y="388" width="24" height="62" class="barY" style="animation-delay:.56s"/>
+ <rect x="895" y="374" width="24" height="76" class="barY" style="animation-delay:.64s"/>
+ <rect x="932" y="369" width="24" height="81" class="barY" style="animation-delay:.72s"/>
+ <rect x="969" y="369" width="24" height="81" class="barY" style="animation-delay:.80s"/>
+ <rect x="1006" y="344" width="24" height="106" fill="#4ce7a0" class="barY" style="animation-delay:.88s"/>
+</g>
+
+<g fill="#a9c1d4" font-size="10" text-anchor="middle">
+ <text x="611" y="468">Jan</text>
+ <text x="648" y="468">Feb</text>
+ <text x="685" y="468">Mar</text>
+ <text x="722" y="468">Apr</text>
+ <text x="759" y="468">May</text>
+ <text x="796" y="468">Jun</text>
+ <text x="833" y="468">Jul</text>
+ <text x="870" y="468">Aug</text>
+ <text x="907" y="468">Sep</text>
+ <text x="944" y="468">Oct</text>
+ <text x="981" y="468">Nov</text>
+ <text x="1018" y="468">Dec</text>
+</g>
+
+<!-- SUBSCRIPTION TREEMAP -->
+<rect x="22" y="516" width="518" height="180" rx="12" class="panel"/>
+<text x="42" y="543" class="head">SUBSCRIPTION PLAN DISTRIBUTION</text>
+<text x="42" y="561" class="muted">Meal-kit configuration / relative mix</text>
+<g font-size="11" fill="#fff">
+ <rect x="42" y="575" width="192" height="95" rx="4" fill="#168df5"/>
+ <text x="52" y="595">3 meal kits / 2 servings</text>
+ <rect x="238" y="575" width="137" height="95" rx="4" fill="#f17332"/>
+ <text x="247" y="595">2 kits / 2 servings</text>
+ <rect x="379" y="575" width="141" height="47" rx="4" fill="#db399c"/>
+ <text x="389" y="594">1 kit / 4 servings</text>
+ <rect x="379" y="626" width="141" height="44" rx="4" fill="#7e4bd3"/>
+ <text x="389" y="644">Other plans</text>
+</g>
+
+<!-- REVENUE FORECAST -->
+<rect x="554" y="516" width="524" height="180" rx="12" class="panel"/>
+<text x="574" y="543" class="head">REVENUE FORECAST MONITOR</text>
+<text x="574" y="562" class="muted">Projected revenue / What-If analysis</text>
+<path d="M588 649 A195 100 0 0 1 1044 649" fill="none" stroke="#34495a" stroke-width="23"/>
+<path d="M588 649 A195 100 0 0 1 1044 649" fill="none" stroke="#218ff5" stroke-width="23" stroke-dasharray="355 800" class="appear"/>
+<text x="816" y="640" text-anchor="middle" fill="#e4f3ff" font-size="36" font-weight="bold">$2.76M</text>
+<text x="816" y="665" text-anchor="middle" fill="#91a8bd" font-size="12">PROJECTED REVENUE</text>
+<text x="585" y="682" fill="#91a8bd" font-size="11">$0.00M</text>
+<text x="1048" y="682" text-anchor="end" fill="#91a8bd" font-size="11">$5.52M</text>
+
+<text x="550" y="712" text-anchor="middle" fill="#829db1" font-size="10" letter-spacing="2">POWER BI • OPERATIONAL PERFORMANCE • LOGISTICS • REVENUE INTELLIGENCE</text>
+</svg>
